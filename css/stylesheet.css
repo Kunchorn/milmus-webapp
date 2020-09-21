@@ -58,9 +58,9 @@ body {
 }
 
 .slideshow-fullscreen img {
-  max-height: 775px;
+  max-height: 850px;
   width: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .open a {
@@ -137,7 +137,7 @@ body {
   position: absolute;
   bottom: 8px;
   width: 98.4%;
-  top: 740px;
+  top: 750px;
   height: 20px;
 }
 
