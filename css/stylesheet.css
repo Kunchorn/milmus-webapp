@@ -100,8 +100,8 @@ body {
 
 /* Position the "next button" to the right */
 .next {
-  right: 295px;
-  width: 24px;
+  left: 50%;
+ 
   border-radius: 3px 0 0 3px;
 }
 
